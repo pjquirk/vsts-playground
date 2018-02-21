@@ -10,6 +10,8 @@
   
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <file>empty-pom.xml</file>      
+    <url>https://github.com/pjquirk/vsts-playground</url>
   </properties>
   
   <build>
