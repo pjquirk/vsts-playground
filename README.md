@@ -15,3 +15,4 @@ Something
 Status change 3
 
 Change for testing getting all commits
+And another
