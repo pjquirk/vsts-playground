@@ -22,3 +22,5 @@ Creating a branch
 Editing in branch
 asdfasdf
 adsfasdf
+
+Editing in master 1
