@@ -33,3 +33,4 @@ Test2
 Updating master
 Updating master again
 Testing vstestapp
+CI Testing
