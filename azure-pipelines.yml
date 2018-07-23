@@ -1,0 +1,9 @@
+phases:
+- phase: FullOnWindows
+  displayName: "Build on Windows using full MSBuild"
+  queue:
+    name: 'Default'
+    timeoutInMinutes: 60
+  steps:
+  - script: set
+    displayName: Command Line Script
