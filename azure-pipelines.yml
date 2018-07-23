@@ -1,3 +1,6 @@
+trigger:
+- master
+
 phases:
 - phase: FullOnWindows
   displayName: "Build on Windows using full MSBuild"
