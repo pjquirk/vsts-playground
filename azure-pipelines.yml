@@ -1,5 +1,6 @@
 trigger:
 - master
+- badyamltest
 
 phases:
 - phase: FullOnWindows
