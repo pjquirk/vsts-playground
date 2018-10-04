@@ -8,4 +8,4 @@ steps:
   displayName: 'Run a one-line script'
 
 - script: set    
-  displayName: 'Set
+  displayName: 'Set'
