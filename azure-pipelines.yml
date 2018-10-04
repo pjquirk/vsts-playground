@@ -3,7 +3,7 @@
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 
-queue: default
+pool: default
 
 steps:
 - script: echo Hello, world!
