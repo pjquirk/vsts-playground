@@ -6,7 +6,7 @@
 pool: default
 
 steps:
-- script: echo Hello, world!
+- script: echo Good news everyone!
   displayName: 'Run a one-line script'
 
 - script: |
