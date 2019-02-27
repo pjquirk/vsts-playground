@@ -1,0 +1,14 @@
+pr:
+  branches:
+    include:
+      - master
+      - users/*
+  paths:
+    include:
+      - java/*
+      - helm/*
+      
+pool: Default
+
+steps:
+  - script: set
