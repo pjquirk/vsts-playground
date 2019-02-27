@@ -8,6 +8,16 @@ pr:
       - java/*
       - helm/*
 
+trigger:
+  branches:
+    include:
+      - master
+      - users/*
+  paths:
+    include:
+      - java/*
+      - helm/*
+
 pool: Default
 
 steps:
