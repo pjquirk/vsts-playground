@@ -19,5 +19,5 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
 
-- powershell: Write-Error ""; exit 1
+- powershell: Write-Warning "Foo"; exit 1
   
