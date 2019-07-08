@@ -1,0 +1,16 @@
+name: Blank workflow
+on: [push]
+jobs:
+
+  run:
+    name: Run
+    runs-on: ubuntu-latest
+    actions:
+
+    - name: Run a one-line script
+      run: echo Hello, world!
+
+    - name: Run a multi-line script
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
